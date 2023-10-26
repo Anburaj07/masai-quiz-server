@@ -2,8 +2,19 @@
     "users": [
       {
         "id": 1,
-        "name":"anburaj",
+        "name":"Anburaj",
         "scores":30
+      },
+      {
+        "id": 2,
+        "name":"Virat",
+        "scores":40
+      },
+      {
+        "id": 3,
+        "name":"Rohit",
+        "scores":20
       }
+      
     ]
   }
